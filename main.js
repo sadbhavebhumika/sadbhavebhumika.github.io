@@ -228,7 +228,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](106, " \u00A0 Programming ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, " JAVA, C/C#, Node JS, HTML, CSS, JavaScript basics, JSP and Servlets. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, " JAVA, C/C#, Node JS, HTML, CSS, JavaScript basics, JSP and Servlet. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "label", 52);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](110, "i", 55);
