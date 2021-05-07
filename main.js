@@ -191,6 +191,14 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, "Developed a Java Spring 5 based application Techbar: A portal where users log their issues and Techbar experts resolve those issues. The application provides an intuitive user interface for users to quickly raise the issues without having to raise a traditional Remedy ticket. I have worked on the following technologies during the development of the search page: JAVA, Spring Framework - IoC and DI, Spring MVC, Hibernate, Spring Security, MySQL etc. Also, I have communicated and co-ordinated with multiple clients to understand the project requirements and finalize its scope. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+		_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "p");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, "Developed multiple automations to reduce 50+ hours of time consuming and manual efforts using RPA UiPath Automation. One of the many Use Cases: Automation for RSA Software Token process which works for 200 users in one run; consists of 5 different flows: new RSA token request, enabling, disabling, reassignment of RSA token and renewing the expired RSA token.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+		_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "p");
+		_angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](75, "Developed a Dialogflow Chatbot named ASKIT for access and application related queries of JLR users, thereby reducing efforts and time of JLR’s IT Service Desk associates. The Bot is deployed on Microsoft teams and used by the entire JLR.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "div", 46);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "span", 23);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "June 2019 - Present");
