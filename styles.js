@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\Anshul\Documents\Angular\resume-anshul-angular\src\styles.css */"OmL/");
+module.exports = __webpack_require__(/*! C:\Users\bsadbhav\Documents\My Documents B\Personal\Resume MAY\resume-bhumika-angular\src\styles.css */"OmL/");
 
 
 /***/ }),
