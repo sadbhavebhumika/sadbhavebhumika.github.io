@@ -143,13 +143,13 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "a", 25);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Tata Consultancy Services");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, " \u2022 Pune, India \u2022 +91-8602696376 \u2022 ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, " \u2022 Pune, India \u2022 +91-8446603430 \u2022 ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "a", 26);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](47, "sadbhaveb511@gmail.com");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "p", 27);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, "I'm a passionate programmer who loves to develop efficient and robust software. My core interest lies in Backend Development, however I am extremely flexible and adaptive with the technology stack and enjoy learning new technologies. I feel ecstatic and enraptured to code as a hobby and develop applications with utmost dedication as a professional. I have hands-on experience in developing web and desktop applications using multiple technology stacks. My background is in Computer Science and Engineering, and I have scored 9.7 CGPA. I possess knowledge of Operating Systems, Data Structures, Algorithms and other CS fundamentals. I like to learn continuously and get myself aqauinted with new technologies. I love hosting as well as attending various tech seminars, workshops etc.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](49, "I'm a passionate programmer who loves to develop efficient and robust software. My core interest lies in Backend Development, however I am extremely flexible and adaptive with the technology stack and I enjoy learning new technologies. I feel ecstatic to code as a hobby and develop applications with utmost dedication as a professional. I have hands-on experience in developing web and desktop applications using multiple technology stacks. My background is in Computer Science and Engineering, and I have scored 9.7 CGPA. I possess knowledge of Operating Systems, Data Structures, Algorithms and other CS fundamentals. I like to learn continuously and get myself acquainted with new technologies. I love hosting as well as attending various tech seminars, workshops etc.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "div", 28);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "a", 29);
