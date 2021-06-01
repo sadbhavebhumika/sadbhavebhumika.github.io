@@ -240,14 +240,14 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](111, " \u00A0 FrameWorks ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "div");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, " Spring 5, Spring MVC, Spring BOOT, Hibernate, Maven, Spring REST ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, " Spring 5, Spring MVC, Spring BOOT, Hibernate, JUnit, Maven, Spring REST ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "label", 52);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](115, "i", 56);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](116, " \u00A0 Database and Tools ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](117, "div", 57);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](118, " MySQL, Firebase, SQL, HQL, Tomcat, GIT, Bitbucket. ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](118, " MySQL, MongoDB, SQL, HQL, Tomcat, GIT, Bitbucket. ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
